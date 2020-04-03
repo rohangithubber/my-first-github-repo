@@ -1,1 +1,3 @@
 Another new file created in BR1 branch
+
+This file was modified locally
